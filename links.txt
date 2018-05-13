@@ -1,0 +1,4 @@
+https://docs.mongodb.com/manual/tutorial/remove-documents/
+https://docs.mongodb.com/manual/tutorial/update-documents/
+https://docs.mongodb.com/manual/tutorial/query-documents/
+https://docs.mongodb.com/manual/tutorial/insert-documents/

@@ -1,0 +1,11 @@
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\bin\Debug\netcoreapp2.0\InsertDocuments.deps.json
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\bin\Debug\netcoreapp2.0\InsertDocuments.runtimeconfig.json
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\bin\Debug\netcoreapp2.0\InsertDocuments.runtimeconfig.dev.json
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\bin\Debug\netcoreapp2.0\InsertDocuments.dll
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\obj\Debug\netcoreapp2.0\InsertDocuments.csprojAssemblyReference.cache
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\obj\Debug\netcoreapp2.0\InsertDocuments.csproj.CoreCompileInputs.cache
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\obj\Debug\netcoreapp2.0\InsertDocuments.AssemblyInfoInputs.cache
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\obj\Debug\netcoreapp2.0\InsertDocuments.AssemblyInfo.cs
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\bin\Debug\netcoreapp2.0\InsertDocuments.pdb
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\obj\Debug\netcoreapp2.0\InsertDocuments.dll
+C:\Practice\MongoDBSamples\MongoDb\InsertDocuments\obj\Debug\netcoreapp2.0\InsertDocuments.pdb
